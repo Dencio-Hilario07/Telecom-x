@@ -65,12 +65,8 @@ Telecom-X/
 ├── Telecom_X_analise.ipynb     # Notebook com código e visualizações
 ├── README_parte1.md            # Relatório completo com insights
 ├── README.md                   # Este arquivo (visão geral do projeto)
-└── dados/                      # (opcional) CSV ou conexão com API
 ```
 
 ---
 
-## 📊 Continuidade
-
--
 
