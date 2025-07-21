@@ -11,7 +11,8 @@ Este relatório apresenta uma análise exploratória (EDA) detalhada sobre os pr
 
 ## 1️⃣ Panorama Geral do Churn
 
-![Rotatividade dos clientes](imagens/Rotatividade dos clirentes.png)
+![Rotatividade dos clientes](./imagens/Rotatividade dos clirentes.png)
+
 > ❗ A cada 4 clientes, 1 deixa a empresa — um sinal crítico para a área de gestão de clientes.
 
 ---
