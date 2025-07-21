@@ -27,14 +27,6 @@ A imagem à esquerda mostra a distribuição percentual de churn, enquanto a da 
   <img src="https://github.com/user-attachments/assets/39b5dfac-cbb3-4bac-88f9-61b8833fe2b7" width="50%" alt="Análise por Gênero" />
 </p>
 
-
-
-| Tipo de Contrato   | % da Base | Churn (%) |
-|--------------------|-----------|-----------|
-| Month-to-Month     | 55,1%     | 42,7%     |
-| Anual              | 20,9%     | 11,3%     |
-| Bienal             | 24,0%     | 2,8%      |
-
 **📌 Insights:**
 - Contratos mensais concentram a maioria da base e têm a maior taxa de churn.
 - Contratos anuais e bienais retêm melhor os clientes, especialmente o bienal.
