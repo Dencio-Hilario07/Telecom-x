@@ -18,6 +18,16 @@ Este relatório apresenta uma análise exploratória (EDA) detalhada sobre os pr
 ---
 
 ## 2️⃣ Impacto do Tipo de Contrato
+### Distribuição e Análise por Gênero
+
+A imagem à esquerda mostra a distribuição percentual de churn, enquanto a da direita detalha a taxa por gênero:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55ac115e-cca3-47d0-83db-5c50310cc366" width="45%" alt="Distribuição de Churn" />
+  <img src="https://github.com/user-attachments/assets/39b5dfac-cbb3-4bac-88f9-61b8833fe2b7" width="50%" alt="Análise por Gênero" />
+</p>
+
+
 
 | Tipo de Contrato   | % da Base | Churn (%) |
 |--------------------|-----------|-----------|
