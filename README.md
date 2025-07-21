@@ -13,7 +13,7 @@ Este relatório apresenta uma análise exploratória (EDA) detalhada sobre os pr
 
 - **Taxa de churn:** `26,5%`
 - **Clientes ativos:** `73,5%`
-
+![Rotatividade dos clientes](./imagens/Rotatividade%20dos%20clientes.png)
 > ❗ A cada 4 clientes, 1 deixa a empresa — um sinal crítico para a área de gestão de clientes.
 
 ---
