@@ -3,7 +3,7 @@
 
 ## 🧾 Introdução
 
-A evasão de clientes (churn) é um dos principais desafios enfrentados por empresas de telecomunicações. Em um mercado altamente competitivo, reter clientes é mais estratégico — e econômico — do que adquirir novos.
+A evasão de clientes (churn) é um dos principais desafios enfrentados por empresas de telecomunicações. Em um mercado altamente competitivo, reter clientes é mais estratégico  e econômico do que adquirir novos.
 
 Este relatório apresenta uma análise exploratória (EDA) detalhada sobre os principais fatores que impactam o churn na Telecom X. Com base nos dados, são propostas ações práticas e direcionadas para reduzir a saída de clientes e melhorar os indicadores de fidelização.
 
@@ -11,7 +11,7 @@ Este relatório apresenta uma análise exploratória (EDA) detalhada sobre os pr
 
 ## 1️⃣ Panorama Geral do Churn
 
-![Rotatividade dos clientes](./imagens/Rotatividade dos clirentes.png)
+<img width="590" height="590" alt="Image" src="https://github.com/user-attachments/assets/b91880c8-8de0-46a0-b88c-940ae9e33245" />
 
 > ❗ A cada 4 clientes, 1 deixa a empresa — um sinal crítico para a área de gestão de clientes.
 
