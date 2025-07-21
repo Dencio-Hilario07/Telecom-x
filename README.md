@@ -46,12 +46,7 @@ A imagem à esquerda mostra a distribuição percentual de churn, enquanto a da 
 ---
 
 ## 3️⃣ Análise por Método de Pagamento
-
-| Método de Pagamento       | Churn (%) | Retenção (%) |
-|---------------------------|-----------|---------------|
-| Electronic Check          | 45,3%     | 54,7%         |
-| Cartão de Crédito (auto)  | 15,2-19,1%| 80,9-84,8%     |
-| Transferência Bancária    | 15,2-19,1%| -             |
+<img width="989" height="590" alt="Image" src="https://github.com/user-attachments/assets/322baf5b-e914-421b-bfb2-8ff06e75f40b" />
 
 **📌 Insights:**
 - Cheque eletrônico está associado às maiores taxas de churn.
@@ -64,6 +59,8 @@ A imagem à esquerda mostra a distribuição percentual de churn, enquanto a da 
 ---
 
 ## 4️⃣ Distribuição de Cobranças (`account.Charges.Total`)
+
+<img width="715" height="402" alt="Image" src="https://github.com/user-attachments/assets/563aae15-36e9-4853-9fd9-feb8860c4b72" />
 
 - Clientes churners possuem **padrões distintos** de cobrança.
 - Há presença de **outliers**, indicando possíveis erros, cobranças excessivas ou disputas mal resolvidas.
